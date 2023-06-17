@@ -1,0 +1,11 @@
+.Layout {
+  width: 100%;
+  height: 100%;
+  background-color: $dark-mode-basic-background;
+
+  &__outletWrapper {
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+  }
+}
